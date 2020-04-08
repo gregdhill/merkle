@@ -1,3 +1,3 @@
-# Merkle Rust
+# Rust Trees :evergreen_tree:
 
-Simple merkle tree implementation in rust for learning purposes only.
+Simple tree implementations in rust for learning purposes only.
